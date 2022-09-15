@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaMirea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Example.java" afterDir="false" />
+    <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Args.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/HarmonicSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/SumMinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/Example.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +49,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663229326240</updated>
-      <workItem from="1663229327376" duration="247000" />
+      <workItem from="1663229327376" duration="1166000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1663229597148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663229597148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
