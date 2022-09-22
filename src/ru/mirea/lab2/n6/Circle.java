@@ -2,32 +2,24 @@ package ru.mirea.lab2.n6;
 
 public class Circle {
     private double radius=1;
-    private String color="Красный";
 
     public Circle(){}
 
     public Circle(double radius, String color){
         this.radius=radius;
-        this.color=color;
+//        this.color=color;
     }
     public Circle(double radius){
         this.radius=radius;
     }
-    public Circle(String color){
-        this.color=color;
-    }
+
 
     // Геттеры
     public double getRadius() {
         return radius;
     }
-    public String getColor() {
-        return color;
-    }
+
     // Сеттеры
-    public void setColor(String color) {
-        this.color = color;
-    }
     public void setRadius(double radius) {
         this.radius = radius;
     }

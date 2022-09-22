@@ -4,30 +4,13 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="Выполнена вторая таска">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n1/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n1/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n10/HowMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n2/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n4/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n5/DogKennel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n7/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n7/Bookshelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n8/StingArrayReverser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n9/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n9/PokerCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n9/PokerPlayer.java" afterDir="false" />
+    <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="Внесены небольшие изменения во вторую таску">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n5/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n5/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/CircleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +60,8 @@
       <workItem from="1663748696649" duration="1058000" />
       <workItem from="1663749909443" duration="2707000" />
       <workItem from="1663759393547" duration="2043000" />
-      <workItem from="1663764714087" duration="6237000" />
+      <workItem from="1663764714087" duration="6331000" />
+      <workItem from="1663827028844" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1663229597148</created>
@@ -93,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663230592140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Выполнена вторая таска">
+      <created>1663771007373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663771007373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +105,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Выполнено первое задание" />
     <MESSAGE value="Выполнена вторая таска" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнена вторая таска" />
+    <MESSAGE value="Внесены небольшие изменения во вторую таску" />
+    <option name="LAST_COMMIT_MESSAGE" value="Внесены небольшие изменения во вторую таску" />
   </component>
 </project>

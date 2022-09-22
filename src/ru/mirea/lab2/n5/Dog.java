@@ -12,10 +12,6 @@ public class Dog {
         this.name=name;
         this.age=0;
     }
-//    public Dog(){
-//        name="Тузик";
-//        age=0;
-//    }
 
     public void setName(String name){
         this.name=name;

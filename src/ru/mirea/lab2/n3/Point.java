@@ -1,7 +1,7 @@
 package ru.mirea.lab2.n3;
 
 public class Point {
-    double x, y;
+    private double x, y;
 
     public Point(double x, double y) {
         this.x = x;
