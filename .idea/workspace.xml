@@ -5,12 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="Внесены небольшие изменения во вторую таску">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Report/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Report/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/WebShop/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/WebShop/WebStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n1/RndSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n3/RisingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n4/ExtractEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/o1/DoubleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/o1/javatable1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/o1/javatable2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Atelier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/MenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Pants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Skirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/TShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Tie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/WomenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/ComputerNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/WebShop/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/WebShop/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/WebShop/WebStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n2/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n4/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n5/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/SchoolStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/UniversityStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n3/ShowPicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n3/green-among-us-png-character-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n4/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/TFarenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/TKelvin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/StringTransformer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n3/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n5/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n5/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/n6/CircleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +93,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -43,9 +117,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vhhg/IdeaProjects/JavaMirea/src/ru/mirea/lab5/n3&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ru/mirea/lab5/n3" />
+      <recent name="$PROJECT_DIR$/src/ru/mirea/lab41/n8" />
+      <recent name="$PROJECT_DIR$/src/ru/mirea/lab41" />
+      <recent name="$PROJECT_DIR$/src/ru/mirea/lab4" />
+      <recent name="$PROJECT_DIR$/src/ru/mirea/lab3/o1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.mirea.lab6" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.mirea.lab3.WebShop" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +152,20 @@
       <workItem from="1663749909443" duration="2707000" />
       <workItem from="1663759393547" duration="2043000" />
       <workItem from="1663764714087" duration="6331000" />
-      <workItem from="1663827028844" duration="1399000" />
+      <workItem from="1663827028844" duration="2332000" />
+      <workItem from="1664294010807" duration="3767000" />
+      <workItem from="1664357961077" duration="2903000" />
+      <workItem from="1664542152108" duration="460000" />
+      <workItem from="1664623443728" duration="7098000" />
+      <workItem from="1664637119715" duration="3377000" />
+      <workItem from="1664714610081" duration="6714000" />
+      <workItem from="1664782856829" duration="5342000" />
+      <workItem from="1664789081399" duration="586000" />
+      <workItem from="1664792791424" duration="1819000" />
+      <workItem from="1664804375697" duration="2328000" />
+      <workItem from="1664960699036" duration="15229000" />
+      <workItem from="1665036666002" duration="8303000" />
+      <workItem from="1665222552516" duration="2653000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1663229597148</created>
@@ -84,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663771007373</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Внесены небольшие изменения во вторую таску">
+      <created>1663828440503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663828440503</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Внесены небольшие изменения во вторую таску">
+      <created>1663828671772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663828671772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
