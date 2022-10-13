@@ -16,6 +16,7 @@ public class ShowPicture {
             image = ImageIO.read(new File(args[0]));
         }catch(Exception e){
             System.out.println(e);
+            return;
         }
         if(image!=null) {
             JLabel picLabel = new JLabel(new ImageIcon(image));

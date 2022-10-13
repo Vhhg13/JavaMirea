@@ -4,85 +4,48 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="Внесены небольшие изменения во вторую таску">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Report/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Report/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/WebShop/Good.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/WebShop/WebStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n1/RndSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n2/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n3/RisingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/n4/ExtractEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/o1/DoubleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/o1/javatable1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/o1/javatable2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Atelier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/MenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Pants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Skirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/TShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/Tie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier/WomenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/ComputerNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Computer/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/WebShop/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/WebShop/Good.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/WebShop/WebStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n1/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n2/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n4/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n5/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n5/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/SchoolStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/UniversityStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n8/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Football.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n3/ShowPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n3/green-among-us-png-character-0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n4/Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n1/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/Convertable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/TFarenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n11/TKelvin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/n69/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathCalculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/StringTransformer.java" afterDir="false" />
+    <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="1-10 к дедлайну">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/Student10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n10/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n10/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n10/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n10/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/ComputerName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/WebStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/WebShop/WebStoreReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/TransformerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/PrintRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/MyComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/TestComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n2/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n4/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/n4/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n5/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n5/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/SchoolStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/n7/UniversityStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/n3/ShowPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/n3/ShowPicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab7/MathFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab7/StringTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/StringTransformer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +57,8 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -117,25 +80,36 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vhhg/IdeaProjects/JavaMirea/src/ru/mirea/lab5/n3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vhhg/IdeaProjects/JavaMirea/src/ru/mirea/lab7&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ru/mirea/lab7" />
+      <recent name="$PROJECT_DIR$/src/ru/mirea/lab6" />
       <recent name="$PROJECT_DIR$/src/ru/mirea/lab5/n3" />
       <recent name="$PROJECT_DIR$/src/ru/mirea/lab41/n8" />
       <recent name="$PROJECT_DIR$/src/ru/mirea/lab41" />
-      <recent name="$PROJECT_DIR$/src/ru/mirea/lab4" />
-      <recent name="$PROJECT_DIR$/src/ru/mirea/lab3/o1" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.mirea.lab6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.mirea.lab10" />
       <recent name="ru.mirea.lab3.WebShop" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.n3.ShowPicture" />
+      <module name="JavaMirea" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/amogus.png" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -166,6 +140,11 @@
       <workItem from="1664960699036" duration="15229000" />
       <workItem from="1665036666002" duration="8303000" />
       <workItem from="1665222552516" duration="2653000" />
+      <workItem from="1665388893643" duration="10735000" />
+      <workItem from="1665425264008" duration="2491000" />
+      <workItem from="1665469080965" duration="5806000" />
+      <workItem from="1665590268268" duration="270000" />
+      <workItem from="1665641107420" duration="6189000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1663229597148</created>
@@ -202,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663828671772</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="много всякого">
+      <created>1665389157026</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665389157026</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +210,24 @@
     <MESSAGE value="Выполнено первое задание" />
     <MESSAGE value="Выполнена вторая таска" />
     <MESSAGE value="Внесены небольшие изменения во вторую таску" />
-    <option name="LAST_COMMIT_MESSAGE" value="Внесены небольшие изменения во вторую таску" />
+    <MESSAGE value="много всякого" />
+    <MESSAGE value="1-10 к дедлайну" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-10 к дедлайну" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/mirea/lab8/SumOfDigits.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/mirea/lab10/Main.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
