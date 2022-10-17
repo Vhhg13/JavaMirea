@@ -116,7 +116,7 @@ public class Main {
             }else System.out.println("Нет такого варианта");
         }
         Main main = new Main(cmp, students);
-        //main.quicksort();
+        main.quicksort();
         //main.mergeSort();
 
         main.outArray();
