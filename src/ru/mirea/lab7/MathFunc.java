@@ -24,9 +24,9 @@ public class MathFunc implements MathCalculable{
 
     public static void main(String[] args) {
         MathCalculable mc = new MathFunc();
-        System.out.println(mc.pow(1, 100));
-        System.out.println(mc.pow(1.1, 20));
-        System.out.println(mc.getAbs(1, 0));
-        System.out.println(mc.getAbs(3, 4));
+        System.out.println("1^100 = "+mc.pow(1, 100));
+        System.out.println("1.1^20 = "+mc.pow(1.1, 20));
+        System.out.println("|1| = "+mc.getAbs(1, 0));
+        System.out.println("|3+4i| = "+mc.getAbs(3, 4));
     }
 }

@@ -5,7 +5,8 @@ public class Report {
         StringBuilder res= new StringBuilder("%-20s %10s%n".formatted("Employee", "Salary"));
         for(int i=0;i<employees.length-1;++i)
             res.append(employees[i]).append("\n");
-        return res.toString() +employees[employees.length-1];
+        res.append(employees[employees.length-1]);
+        return res.toString();
     }
 
     public static void main(String[] args) {

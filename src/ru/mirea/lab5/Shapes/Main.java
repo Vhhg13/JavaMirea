@@ -1,4 +1,4 @@
-package ru.mirea.lab12.Shapes;
+package ru.mirea.lab5.Shapes;
 
 import javax.swing.*;
 import java.awt.*;

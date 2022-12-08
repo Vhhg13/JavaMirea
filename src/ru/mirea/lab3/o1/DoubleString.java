@@ -15,12 +15,10 @@ public class DoubleString {
         short dSht = d1.shortValue();
         int dInt = d1.intValue();
         long dLong = d1.longValue();
-        // char bool X
+        // char bool
+        String d = Double.toString(3.14);
 
         // Вывод
         System.out.println(d2);
-
-        // Преобразование к строке
-        String d = Double.toString(3.14);
     }
 }

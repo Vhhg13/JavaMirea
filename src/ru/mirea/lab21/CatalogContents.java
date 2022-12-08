@@ -5,9 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class CatalogContents {
+    public static List<File> list = new LinkedList<>();
     public static void main(String[] args) {
         File file = new File("/home/vhhg/");
-        List<File> list = new LinkedList<>();
         for(File f : file.listFiles()){
             list.add(f);
         }
