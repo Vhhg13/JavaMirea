@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ThrowsDemo7 {
     public void getKey(){
         Scanner scanner = new Scanner(System.in);
-        String key = scanner.next();
+        String key = scanner.nextLine();
         try {
             printDetails(key);
         }catch(Exception e){

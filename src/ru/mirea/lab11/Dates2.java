@@ -12,10 +12,9 @@ import java.util.Scanner;
 public class Dates2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите дату в формате dd MM yyyy HH:mm:");
         String dateStr = scanner.nextLine();
-        System.out.println("Ввелите дату в формате dd MM yyyy HH:mm:");
         SimpleDateFormat dateFormat = new SimpleDateFormat("dd MM yyyy HH:mm");
-        //SimpleDateFormat dfSec = new SimpleDateFormat("yyyy 'лет' MM 'месяцев' dd 'дней' HH 'секунд' mm 'минут' ss 'секунд'");
         Date date;
         try {
             date = dateFormat.parse(dateStr);
@@ -27,7 +26,7 @@ public class Dates2 {
         Date diff = new Date(Math.abs(now.getTime() - date.getTime()));
         Calendar cal = Calendar.getInstance();
         cal.setTime(diff);
-        System.out.printf("Между введёнными датами %d лет %d месяцев %d дней %d часов %d минут %d секунд\n",
+        System.out.printf("Между текущей и введённой датой %d лет %d месяцев %d дней %d часов %d минут %d секунд\n",
                 cal.get(Calendar.YEAR) - 1970,
                 cal.get(Calendar.MONTH),
                 cal.get(Calendar.DAY_OF_MONTH) - 1,

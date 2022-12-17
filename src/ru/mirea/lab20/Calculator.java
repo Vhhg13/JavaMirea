@@ -1,17 +1,17 @@
 package ru.mirea.lab20;
 
 public class Calculator {
-    public static <N, T> double add(N a, T b){
-        return (double)a+(double)b;
+    public static <N extends Number, T extends Number> double add(N a, T b){
+        return a.doubleValue()+b.doubleValue();
     }
-    public static <T, N> double sub(T a, N b){
-        return (double)a-(double)b;
+    public static <T extends Number, N extends Number> double sub(T a, N b){
+        return a.doubleValue()-b.doubleValue();
     }
-    public static <T, N> double mul(T a, N b){
-        return (double)a*(double) b;
+    public static <T extends Number, N extends Number> double mul(T a, N b){
+        return a.doubleValue()*b.doubleValue();
     }
-    public static <T, N> double div(T a, N b){
-        double res = (double)a/(double)b;
+    public static <T extends Number, N extends Number> double div(T a, N b){
+        double res = a.doubleValue()/(double)b;
         if(Double.isFinite(res)) return res;
         else throw new ArithmeticException("Division by zero");
     }

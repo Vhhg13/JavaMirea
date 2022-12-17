@@ -8,6 +8,7 @@ import java.awt.event.MouseEvent;
 public class BorL {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Border Layout");
+        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.getContentPane().setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.PAGE_AXIS));
         JPanel panel = new JPanel();
         JLabel txt = new JLabel("Center");

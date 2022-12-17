@@ -8,6 +8,7 @@ import java.awt.event.ActionListener;
 public class Fonts {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
+        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.getContentPane().setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.PAGE_AXIS));
 
         JTextArea txt = new JTextArea();

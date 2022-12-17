@@ -17,13 +17,13 @@ public class ListsTest {
             linkedList.add(i);
         }
         end = new Date();
-        System.out.println(end.getTime()- start.getTime());
+        System.out.println("LinkedList справился за: "+(end.getTime()- start.getTime())+"мc");
 
         start = new Date();
         for(int i=0;i<NUM;++i){
             arrayList.add(i);
         }
         end = new Date();
-        System.out.println(end.getTime()- start.getTime());
+        System.out.println("ArrayList справился за: "+(end.getTime()- start.getTime())+"мc");
     }
 }

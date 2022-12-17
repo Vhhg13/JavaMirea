@@ -41,9 +41,23 @@ public class Address {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Address("a, b, c, d, e, f, g"));
-        System.out.println(new Address("a|b|c|d|e|f|g", "|"));
-        System.out.println(new Address("azxcbzxcbzxcdzxcezxcfzxcg", "zxc"));
-        System.out.println(new Address("a| b | c |d|e|     f|   g    ", "|"));
+        String str = "a, b, c, d, e, f, g";
+        System.out.println("Исходная строка: "+str);
+        System.out.println(new Address(str));
+        System.out.println();
+
+        str="a|b|c|d|e|f|g";
+        System.out.println("Исходная строка: "+str);
+        System.out.println(new Address(str, "|"));
+        System.out.println();
+
+        str="azxcbzxcbzxcdzxcezxcfzxcg";
+        System.out.println("Исходная строка: "+str+", делиметр zxc");
+        System.out.println(new Address(str, "zxc"));
+        System.out.println();
+
+        str="a| b | c |d|e|     f|   g    ";
+        System.out.println("Исходная строка: "+str+", делиметр |");
+        System.out.println(new Address(str, "|"));
     }
 }

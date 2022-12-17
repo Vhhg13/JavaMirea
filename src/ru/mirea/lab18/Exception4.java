@@ -14,7 +14,7 @@ public class Exception4 {
         }catch(NumberFormatException nf){
             System.out.println("Caught Number Format Exception!!");
         }finally {
-            System.out.println("This will we always printed");
+            System.out.println("This will always be printed");
         }
     }
 

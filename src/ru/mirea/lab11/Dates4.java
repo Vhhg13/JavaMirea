@@ -7,21 +7,13 @@ import java.util.Scanner;
 
 public class Dates4 {
     private static SimpleDateFormat df=new SimpleDateFormat("yyyy MM dd HH mm");
-    public static Date getDate(String str){
-        try {
-            return df.parse(str);
-        }catch(Exception e){
-            return null;
-        }
+    public static Date getDate(String str) throws Exception{
+        return df.parse(str);
     }
-    public static Calendar getCal(String str){
-        try{
-            Calendar cal=Calendar.getInstance();
-            cal.setTime(df.parse(str));
-            return cal;
-        }catch(Exception e){
-            return null;
-        }
+    public static Calendar getCal(String str) throws Exception{
+        Calendar cal=Calendar.getInstance();
+        cal.setTime(df.parse(str));
+        return cal;
     }
 
     public static void main(String[] args) {
@@ -39,6 +31,6 @@ public class Dates4 {
         }catch(Exception e){
             return;
         }
-        System.out.println(cal.get(Calendar.DAY_OF_MONTH)+" "+cal.get(Calendar.MONTH)+1+" "+cal.get(Calendar.YEAR));
+        System.out.println(cal.get(Calendar.DAY_OF_MONTH)+" "+(cal.get(Calendar.MONTH)+1)+" "+cal.get(Calendar.YEAR));
     }
 }
