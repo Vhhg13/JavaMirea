@@ -7,9 +7,15 @@ public class NameMaps {
     public static HashMap<String, String> createMap(){
         HashMap<String, String> hm = new HashMap<>();
         hm.put("Name1", "LName1");
+        hm.put("Name1", "LName2");
+        hm.put("Name1", "LName3");
         hm.put("Name2", "LName1");
         hm.put("Name2", "LName2");
-        hm.put("Name1", "LName2");
+        hm.put("Name2", "LName3");
+        hm.put("Name3", "LName1");
+        hm.put("Name3", "LName2");
+        hm.put("Name3", "LName3");
+        hm.put("Name4", "LName4");
         return hm;
     }
     public static int getSameFirstNameCount(Map<String, String> map, String name){

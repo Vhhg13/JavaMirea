@@ -5,4 +5,7 @@ public class MultifunctionalChair implements Chair{
     public String getType() {
         return "Magic Chair";
     }
+    public int sum(int a, int b){
+        return a+b;
+    }
 }

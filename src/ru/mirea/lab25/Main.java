@@ -26,6 +26,7 @@ public class Main {
             }
         }
         if(i==1000) System.out.println("Regexp tests passed");
+        System.out.println("Valid parenthesis:");
         for(int j=0;j<1000;++j) {
             StringBuilder sb = new StringBuilder(10);
             for (i = 0; i < 10; ++i)

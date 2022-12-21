@@ -5,4 +5,7 @@ public class MagicChair implements Chair{
     public String getType() {
         return "Magic Chair";
     }
+    public void doMagic(){
+        System.out.println("***Some magic is done***");
+    }
 }

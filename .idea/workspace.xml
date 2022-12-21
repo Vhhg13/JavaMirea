@@ -5,39 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44ce51b4-ec0f-4bd9-b45a-4bce3f21c3f0" name="Changes" comment="до 29">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/AbstractQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/ArrayQueueADT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/ArrayQueueModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/TestArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/TestArrayQueueADT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/TestArrayQueueModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab23/TestLinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/MagicChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/MultifunctionalChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/VictorianChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab26/HTTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab26/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab26/MyObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab27/HashSetIntoTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab27/NameMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab17/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab17/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/AbstractChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/ChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab11/Dates2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/Dates2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab11/Dates4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/Dates4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab11/ListsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab11/ListsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab13/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab13/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab14/Abcdefghijklmnopqrstuv18340.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/Abcdefghijklmnopqrstuv18340.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab14/SplitByRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab14/SplitByRE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab16/BorL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab16/BorL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab16/Fonts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab16/Fonts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab18/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab18/Exception1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab18/Exception4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab18/Exception4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab18/ThrowsDemo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab18/ThrowsDemo7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab20/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab20/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab24/MagicChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/MagicChair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab24/MultifunctionalChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/MultifunctionalChair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab24/VictorianChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab24/VictorianChair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab26/HTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab26/HTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab27/NameMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab27/NameMaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +143,8 @@
       <workItem from="1671172265373" duration="5164000" />
       <workItem from="1671183720833" duration="2552000" />
       <workItem from="1671216202850" duration="7097000" />
-      <workItem from="1671257791266" duration="2363000" />
+      <workItem from="1671257791266" duration="3978000" />
+      <workItem from="1671272916257" duration="5580000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1663229597148</created>
@@ -242,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670487663009</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="до 29">
+      <created>1671268246126</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671268246126</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
